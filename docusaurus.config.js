@@ -8,7 +8,7 @@ const config = {
   future: {},
 
   url: 'https://justinwelch7.github.io',
-  baseUrl: 'Trash in IV',
+  baseUrl: '/iv-trash-white-paper/',
   organizationName: 'justinwelch7',
   projectName: 'iv-trash-white-paper',
   trailingSlash: false,
